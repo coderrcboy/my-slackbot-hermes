@@ -4,9 +4,9 @@ const axios = require("axios");
 
 // Initialize Slack Bolt App using Socket Mode
 const app = new App({
-  token: process.env.SLACK_BOT_TOKEN || "xoxb-2210535565-12160771072721-axz5EmEVRUuy18wVC98niPBO",
-  appToken: process.env.SLACK_APP_TOKEN || "xapp-1-A0C4QNA32KT-12160760773473-137b8545d43b19c0c4ac86497dfbbf759bdcc1f1097839fa71b3cb42e54da176",
-  signingSecret: process.env.SLACK_SIGNING_SECRET || "8a1d9d62122c08876bd5455e39da64a9",
+  token: process.env.SLACK_BOT_TOKEN || "put in ur token deets",
+  appToken: process.env.SLACK_APP_TOKEN || "put in ur token deets",
+  signingSecret: process.env.SLACK_SIGNING_SECRET || "put in ur token deets",
   socketMode: true,
 });
 
