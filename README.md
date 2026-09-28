@@ -12,10 +12,8 @@ Tech Stack
 
 Commands
 * /hermes_by-shyam-ping: Checks bot latency. Example: /hermes_by-shyam-ping
-* /hermes_by-shyam-catfact: Fetches a random cat fact. Example: /hermes_by-shyam-catfact
 * /hermes_by-shyam-factcheck: Generates a Google search link to fact-check text. Example: /hermes_by-shyam-factcheck earth is round
 * /hermes_by-shyam-find: Finds the latest channel message matching a query. Example: /hermes_by-shyam-find hello
-* /hermes_by-shyam-help: Displays available commands and usage instructions. Example: /hermes_by-shyam-help
 
 Environment Variables
 
